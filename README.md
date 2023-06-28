@@ -2,8 +2,8 @@
 
 <div align=center>
   
-  ## 💁Introduction
-    안녕하세요 신입 개발자 정혜연입니다!
+  ## 💁 Introduction
+    안녕하세요 기술을 통해 사람을 이롭게 하는 주니어 개발자로 성장하고자 합니다!
 
   ## 🔧 Skills
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
