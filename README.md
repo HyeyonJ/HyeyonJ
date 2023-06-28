@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#d99653&height=300&section=header&text=Hello%20i'm%20Hyeyeon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#e37435&height=500&section=header&text=Hello%20i'm%20Hyeyeon&fontSize=90)
 
 ### Hi there 👋
 
