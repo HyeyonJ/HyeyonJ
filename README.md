@@ -1,4 +1,5 @@
 ![header](https://github.com/HyeyonJ/HyeyonJ/assets/113879120/04b663f2-f449-4067-a849-642d811c4166)
+<img width="100%" alt="chatting" src="https://github.com/HyeyonJ/HyeyonJ/assets/113879120/04b663f2-f449-4067-a849-642d811c4166.gif">
 
 <div align=center>
   
