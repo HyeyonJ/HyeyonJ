@@ -1,4 +1,5 @@
-![frontend](https://github.com/HyeyonJ/HyeyonJ/assets/113879120/8c490697-b6c9-4b16-8c37-469da2f03123)
+![frontendde](https://github.com/HyeyonJ/HyeyonJ/assets/113879120/49f423b0-8a03-403e-9c03-bfc4f1bb54e8)
+
 
 <div align=center>
   
