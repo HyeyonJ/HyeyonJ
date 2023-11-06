@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&width=auto-center&section=header&text=Hello%20i'm%20Hyeyeon&fontSize=30)
+![header](https://github.com/HyeyonJ/HyeyonJ/assets/113879120/04b663f2-f449-4067-a849-642d811c4166)
 
 <div align=center>
   
