@@ -1,5 +1,5 @@
 ![frontendde](https://github.com/HyeyonJ/HyeyonJ/assets/113879120/49f423b0-8a03-403e-9c03-bfc4f1bb54e8)
-<img style="height:30px" src="https://github.com/HyeyonJ/HyeyonJ/assets/113879120/49f423b0-8a03-403e-9c03-bfc4f1bb54e8.gif">
+<img style="height:200px" src="https://github.com/HyeyonJ/HyeyonJ/assets/113879120/49f423b0-8a03-403e-9c03-bfc4f1bb54e8.gif">
 
 
 <div align=center>
